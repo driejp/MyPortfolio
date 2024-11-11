@@ -1,5 +1,5 @@
 # Welcome to My Data Analytics Portfolio
-Hello! I’m a passionate data analyst with hands-on experience in SQL, predictive analytics, machine learning, and natural language processing (NLP). My work focuses on using data-driven insights to address complex health and clinical challenges. Here’s a brief overview of my experience and the projects I’ve worked on during my time at Morehouse School of Medicine.
+Hello! I’m a passionate, up-and-coming data analyst with hands-on experience in SQL, predictive analytics, machine learning, and natural language processing (NLP). My work focuses on using data-driven insights to address complex health and clinical challenges. Here’s a brief overview of my experience and the projects I’ve worked on during my time at Morehouse School of Medicine.
 
 # About Me
 I hold a background in data analytics and have developed skills in transforming raw data into meaningful insights that drive impactful decisions. At Morehouse, I had the opportunity to work with healthcare datasets, leveraging advanced analytical techniques to address health-related issues and optimize patient outcomes.
